@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string-array name="Lecture">
+        <item>AJP</item>
+        <item>DAA</item>
+        <item>SE</item>
+        <item>EM</item>
+        <item>CD</item>
+        <item>DSV</item>
+    </string-array>
+</resources>
